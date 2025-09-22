@@ -59,3 +59,8 @@ console.log(basarilimi);
 
 let yas;
 console.log(yas); // undefined yaşının içeriği tanımlanmadı
+
+yas == undefined
+console.log(yas == undefined); // true
+yas = "";
+console.log(yas == undefined); // false
