@@ -1,5 +1,5 @@
 let simdi = new Date(); // şu anki tarih ve saat bilgisi
-
+// get methods
 sonuc = simdi;
 sonuc = simdi.getDate(); // ayın kaçıncı günü
 sonuc = simdi.getDay(); // ayın kaçıncı günü 0 pazar 6 cumartesi
